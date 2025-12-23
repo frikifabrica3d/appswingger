@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230890667286",
+    "project_id": "appswingers-5c5cc",
+    "storage_bucket": "appswingers-5c5cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230890667286:android:d6694dcc73f2e2c0dc6437",
+        "android_client_info": {
+          "package_name": "com.example.appswingger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_cReaQlQcBNyT8gOQ_p1gaMeJbK0JHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
